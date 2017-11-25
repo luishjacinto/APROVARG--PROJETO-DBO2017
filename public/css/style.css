@@ -1,0 +1,59 @@
+.logo {
+    height: 53px;
+    width: 53px;
+}
+.feed {
+}
+
+body{
+    background-color: #FAFAFA;
+}
+
+@media screen and (max-width:1000px){
+    .logo{
+        height: 40px;
+        width: 40px;
+        justify-content: center;
+    }
+}
+
+.demo-card-wide >  {
+    color: #fff;
+    height: 176px;
+}
+
+.demo-card-wide.mdl-card {
+    width: 100%;
+    background-color: #fff;
+}
+
+.comentario{
+    width: 100%;    
+}
+
+#logout {
+    height: 30px;
+    width: 30px;
+}
+
+.btt{
+    margin-left: 15px;
+}
+
+.bt{
+    height: 53px;
+    width: 120px;
+} 
+
+.likes , .deslikes{
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+.carregado{
+    display: none;
+}
+
+#body{
+    display: none;
+}

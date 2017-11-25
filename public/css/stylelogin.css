@@ -1,0 +1,20 @@
+body{
+    background-color: #FAFAFA;
+}
+
+.login{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.item{
+    width: 100%;
+}
+
+.title{
+    margin-right: 60px;
+}
+
+#loginbt{
+    margin-top: 13%;
+}

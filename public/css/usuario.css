@@ -1,0 +1,16 @@
+#fotoperfil {
+    margin-left: 5%;
+    height: 70px;
+    width: 70px;
+}
+
+#usuario, #email{
+    margin-left: 3%;
+}
+
+@media screen and (max-width:1000px){
+    #fotoperfil{
+        height: 55px;
+        width: 55px;
+    }
+}
